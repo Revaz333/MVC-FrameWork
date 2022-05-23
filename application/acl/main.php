@@ -1,15 +1,15 @@
 <?php
 return [
-'all' =>[
+	'all' =>[
 
-],
-'authorize' =>[
+	],
+	'authorize' =>[
 
-],
-'guest' => [
+	],
+	'guest' => [
 
-],
-'admin' => [
+	],
+	'admin' => [
 
-],
+	],
 ];

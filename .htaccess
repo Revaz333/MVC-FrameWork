@@ -1,6 +1,4 @@
 AddDefaultCharset utf-8
-
-
 RewriteEngine on
 RewriteCond %{REQWES_FILENAME} !-f
 RewriteCond %{REQWES_FILENAME} !-d
